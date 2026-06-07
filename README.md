@@ -1,0 +1,2 @@
+# Happ
+Happ is a community-driven blockchain ecosystem designed to promote positive digitd innovation. Built around simplicity, growth, and engagement, Happ focuses on creating a secure and future-ready Web3 environment where users and communities can interact seamlessly across evolving decentralized systems.
